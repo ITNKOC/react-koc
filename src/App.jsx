@@ -4,7 +4,7 @@ import Content from "./components/Content";
 import Header from "./components/Header";
 import Banner from "./components/Banner";
 import styles from "./assets/styles/App.module.scss";
-
+//ddd
 const App = () => {
   const [produits, setProduits] = useState([]);
   const [accueil, setAccueil] = useState({});
